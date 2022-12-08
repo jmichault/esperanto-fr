@@ -2,32 +2,32 @@
 terminaisons principales :
 | terminaison | signification
 |---------| ---- |
--a;adjectif;suffixe
--e;adverbe;suffixe
--j;pluriel;suffixe
--n;accusatif;suffixe
--jn;accusatif pluriel
--o;nom commun / substantif;suffixe
+|-a|adjectif|
+|-e|adverbe|
+|-j|pluriel|
+|-n|accusatif|
+|-jn|accusatif pluriel
+|-o|nom commun / substantif|
 
 terminaisons de conjugaison :
 | terminaison | signification
 |---------| ---- |
--i;infinitif;suffixe conjugaison
--as;présent;suffixe conjugaison
--is;passé;suffixe conjugaison
--os;futur;suffixe conjugaison
--us;conditionnel;suffixe conjugaison
--u;volitif (impératif, subjonctif);suffixe conjugaison
+-i|infinitif|
+-as|présent|
+-is|passé|
+-os|futur|
+-us|conditionnel|
+-u|volitif (impératif, subjonctif)|
 
 suffixes de conjugaison :
 | suffixe | signification
 |---------| ---- |
--int-;participe passé actif;suffixe conjugaison
--ant-;participe présent actif;suffixe conjugaison
--ont-;participe futur actif;suffixe conjugaison
--it-;participe passé passif;suffixe conjugaison
--at-;participe présent passif;suffixe conjugaison
--ot-;participe futur passif;suffixe conjugaison
+-int-|participe passé actif|
+-ant-|participe présent actif|
+-ont-|participe futur actif|
+-it-|participe passé passif|
+-at-|participe présent passif|
+-ot-|participe futur passif|
 
 suffixes autres que agglutination,corrélatifs et conjugaison :
 | suffixe | signification
